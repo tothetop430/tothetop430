@@ -44,7 +44,7 @@ Often Failing, Always Learning ✌
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
-#### ⛄ [Hello Open Source](https://github.com/siddharth2016/hello-open-source#hello-open-source)
+#### ⛄ [Hello Open Source](https://github.com/tothetop430/hello-open-source#hello-open-source)
 
 #### 👨‍💻 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
