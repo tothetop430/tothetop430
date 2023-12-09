@@ -1,4 +1,4 @@
-## Namaste :pray:
+## Hello :pray:
 
 <a href="https://doi.org/10.1080/1206212X.2020.1759857">
   <img src="https://raw.githubusercontent.com/siddharth2016/siddharth2016/master/images/research.svg" alt="Co-Authored Research" width="24px" height="24px">
